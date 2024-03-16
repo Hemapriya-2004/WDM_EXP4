@@ -15,8 +15,8 @@
 
 ### Program:
 ```
-Name: Chevula Naga Durga
-Reg No:212221230014
+Name: R Hemapriya
+Reg No:212221230036
 ```
 ```
 # read the data
